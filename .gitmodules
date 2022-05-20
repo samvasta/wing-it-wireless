@@ -1,0 +1,3 @@
+[submodule "kicad_resources"]
+	path = kicad_resources
+	url = https://github.com/samvasta/kicad_resources.git
