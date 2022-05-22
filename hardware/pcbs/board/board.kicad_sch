@@ -2227,9 +2227,9 @@
     )
     (pin "1" (uuid bad630e8-ffa7-4298-8351-5277477769f2))
     (pin "2" (uuid 69a9b9d2-a738-423c-83fe-04d61fe7e04d))
-    (pin "5" (uuid 2bc06442-b04a-4999-badd-20045f9ccd8b))
     (pin "3" (uuid 253f0fe0-406f-4480-8aed-49921681755d))
     (pin "4" (uuid c24bbaee-f410-46ab-8273-50add0797b56))
+    (pin "5" (uuid 2bc06442-b04a-4999-badd-20045f9ccd8b))
     (pin "6" (uuid 9d3ad0a7-5adf-4788-8e7f-23b49409924e))
   )
 
