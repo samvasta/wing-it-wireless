@@ -121,7 +121,8 @@
       "track_widths": [
         0.0,
         0.25,
-        0.5
+        0.5,
+        1.0
       ],
       "via_dimensions": [
         {
@@ -382,8 +383,7 @@
         "name": "Power",
         "nets": [
           "/LED 5V Supply",
-          "/Peripheral 3.3V Supply",
-          "Net-(BoostConverter1-Pad1)"
+          "/Peripheral 3.3V Supply"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
